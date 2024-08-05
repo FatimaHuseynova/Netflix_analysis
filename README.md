@@ -1,6 +1,6 @@
 <div align="center">
    <h1> Netflix </h1>
-   <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3ALogonetflix.png&psig=AOvVaw0JoMfyEtKO67Iw3S_Y5dXL&ust=1722971332515000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjgrcPG3ocDFQAAAAAdAAAAABAE 
+   <img src=https://as2.ftcdn.net/v2/jpg/04/51/30/63/1000_F_451306362_CLrBPzkPAyd7a7XCHuXBYGlZXoeLbJh3.jpg
    width="300">
 </div>
 📊 Netflix Dataset Analysis: Insights into Content and Trends🎬
